@@ -1,0 +1,1 @@
+# single_page_app_template_js
